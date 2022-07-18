@@ -1,0 +1,2 @@
+Text 2
+creating a repo locally and linking it to git
